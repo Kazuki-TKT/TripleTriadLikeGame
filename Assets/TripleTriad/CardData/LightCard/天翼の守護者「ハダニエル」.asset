@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91e095c274d0cf040afc06cf30b9d608, type: 3}
+  m_Name: "\u5929\u7FFC\u306E\u5B88\u8B77\u8005\u300C\u30CF\u30C0\u30CB\u30A8\u30EB\u300D"
+  m_EditorClassIdentifier: 
+  cardElement: 4
+  cardRank: 1
+  cardName: "\u5929\u7FFC\u306E\u5B88\u8B77\u8005\u300C\u30CF\u30C0\u30CB\u30A8\u30EB\u300D"
+  cardSprite: {fileID: 21300000, guid: b75caffe871e9894bae7e94d9611a0d1, type: 3}
+  topPower: 4
+  bottomPower: 3
+  leftPower: 5
+  rightPower: 8
+  cardFlavorText: "\u300E\u30CF\u30C0\u30CB\u30A8\u30EB\u300F\u306F\u3001\u56DB\u3064\u306E\u5927\u304D\u306A\u7FFC\u3092\u6301\u3064\u5929\u754C\u306E\u5B88\u8B77\u8005\u3067\u3042\u308B\u3002\u305D\u306E\u7FFC\u306F\u5929\u7A7A\u3092\u821E\u3044\u3001\u661F\u3005\u306E\u8ECC\u8DE1\u3092\u8FFD\u3046\u3002\u5F7C\u306E\u7532\u5191\u306F\u5B87\u5B99\u306E\u661F\u3005\u3092\u53CD\u6620\u3057\u3001\u5F7C\u306E\u5263\u306F\u5F57\u661F\u306E\u3088\u3046\u306B\u92ED\u304F\u8F1D\u304F\u3002\u5F7C\u306E\u5B58\u5728\u306F\u5929\u7A7A\u306B\u304A\u3051\u308B\u79E9\u5E8F\u3068\u5E73\u548C\u3092\u5B88\u308B\u5B88\u8B77\u8005\u3067\u3042\u308A\u3001\u305D\u306E\u59FF\u306F\u795E\u3005\u3059\u3089\u3082\u754F\u6016\u3055\u305B\u308B\u3002"
